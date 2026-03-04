@@ -13,16 +13,16 @@
 
 <!-- 个人社交媒体 -->
 <div align="center">
-  <a href="https://twitter.com/yourusername" title="Twitter">
+  <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://wpa.qq.com/msgrd?v=3&uin=3065734564&site=qq&menu=yes" title="QQ">
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=oRMp3dd8adjdL6v-9GyNqJrNwADGNjhy" target="_blank" rel="noopener noreferrer" title="QQ">
     <img src="https://img.shields.io/badge/QQ-%2300B4F0.svg?&style=flat&logo=qq&logoColor=white" alt="QQ">
   </a>
-  <a href="mailto:emesrz@qq.com" title="Email">
+  <a href="mailto:emesrz@qq.com" target="_blank" rel="noopener noreferrer" title="Email">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://yourportfolio.com" title="Portfolio">
+  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat" alt="Portfolio">
   </a>
 </div>
@@ -67,43 +67,43 @@
 ##### 💻 Languages
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48"/></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="48" height="48"/></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" height="48"/></a>
-  <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="48" height="48"/></a>
-  <a href="https://go.dev/" title="Go"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="48" height="48"/></a>
-  <a href="https://www.rust-lang.org/" title="Rust"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="48" height="48"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" height="48"/></a>
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="48" height="48"/></a>
+  <a href="https://go.dev/" target="_blank" rel="noopener noreferrer" title="Go"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="48" height="48"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" title="Rust"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" width="48" height="48"/></a>
 </p>
 
 ##### 🌐 Web Dev
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="48" height="48"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="48" height="48"/></a>
-  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="48" height="48"/></a>
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="48" height="48"/></a>
-  <a href="https://vuejs.org/" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" width="48" height="48"/></a>
-  <a href="https://spring.io/" title="Spring"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="48" height="48"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="48" height="48"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="48" height="48"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" width="48" height="48"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer" title="Spring"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="48" height="48"/></a>
 </p>
 
 ##### 🛠️ Dev Tools
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="48" height="48"/></a>
-  <a href="https://www.jetbrains.com/webstorm/" title="WebStorm"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" alt="WebStorm" width="48" height="48"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm" width="48" height="48"/></a>
-  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA" width="48" height="48"/></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="48" height="48"/></a>
-  <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="48" height="48"/></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="48" height="48"/></a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noopener noreferrer" title="WebStorm"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" alt="WebStorm" width="48" height="48"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer" title="PyCharm"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm" width="48" height="48"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA" width="48" height="48"/></a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="48" height="48"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="48" height="48"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48"/></a>
 </p>
 
 ##### 🗄️ Databases
 
 <p align="left">
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="48" height="48"/></a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" height="48"/></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongo&theme=dark" alt="MongoDB" width="48" height="48"/></a>
-  <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="48" height="48"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" height="48"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongo&theme=dark" alt="MongoDB" width="48" height="48"/></a>
+  <a href="https://redis.io/" target="_blank" rel="noopener noreferrer" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48"/></a>
 </p>
