@@ -36,6 +36,12 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emesrz/emesrz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emesrz/emesrz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emesrz/emesrz/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- 贡献图 -->
 ## 🔥 Contribution Graph
 
@@ -94,5 +100,3 @@
   <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongo&theme=dark" alt="MongoDB" width="48" height="48"/></a>
   <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48"/></a>
 </p>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat&logo=mysql&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=flat&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?&style=flat&logo=redis&logoColor=white)
