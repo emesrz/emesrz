@@ -1,15 +1,18 @@
-<!-- 动态打字效果 (优化文案节奏) -->
+<!-- 动态打字效果 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+emesrz;Developer+%7C+Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-<!-- 统计面板 -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emesrz&color=58A6FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/emesrz?label=Followers&color=58A6FF&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/emesrz?label=Stars&color=58A6FF&style=flat-square&logo=github" alt="Stars" />
-</div>
 
-<div align="center"">
+<!-- 个人介绍 -->
+# About Me
+
+- 🔭 I'm currently focused on **building scalable full-stack applications**
+- 🌱 I'm currently learning **AI Agent & Skills**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+
+<!-- 个人社交媒体 -->
+<div align="center">
   <a href="https://twitter.com/yourusername" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
@@ -24,35 +27,39 @@
   </a>
 </div>
 
-<!-- 随机开发名言 -->
+<!-- 统计面板 -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
+  <img src="https://komarev.com/ghpvc/?username=emesrz&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/emesrz?label=Followers&color=58A6FF&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/emesrz?label=Stars&color=58A6FF&style=flat-square&logo=github" alt="Stars" />
 </div>
-<!-- 个人介绍 -->
-## About Me
 
-- 🔭 I'm currently focused on **building scalable full-stack applications**
-- 🌱 I'm currently learning **AI Agent & Skills**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
-
+<!-- 贪吃蛇 -->
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emesrz/emesrz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emesrz/emesrz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emesrz/emesrz/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+<!-- 随机开发名言 -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
+</div>
+
+<!-- GitHub 统计 -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emesrz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
 
 <!-- 贡献图 -->
 ## 🔥 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emesrz&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-<!-- GitHub 统计 -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emesrz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 ## 🚪 Entry
