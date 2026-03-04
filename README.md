@@ -72,18 +72,6 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emesrz&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
-<br />
-
-<!-- 随机开发名言 -->
-## 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
-</div>
-
-<br />
-
-
 <!-- GitHub 统计 -->
 ## 📊 GitHub Stats
 
@@ -98,6 +86,12 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emesrz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
+<!-- 随机开发名言 -->
+## 💭 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
+</div>
 
 <!-- 联系方式 -->
 ## 📫 Connect With Me
