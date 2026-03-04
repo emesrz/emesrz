@@ -1,0 +1,144 @@
+/* 文档站点自定义样式 */
+
+/* 平滑滚动 */
+html {
+  scroll-behavior: smooth;
+}
+
+/* 文档内容样式 */
+.doc-content h1 {
+  @apply text-3xl font-bold mb-6 mt-2 text-foreground;
+}
+
+.doc-content h2 {
+  @apply text-2xl font-semibold mb-4 mt-8 pb-2 border-b border-border text-foreground;
+}
+
+.doc-content h3 {
+  @apply text-xl font-semibold mb-3 mt-6 text-foreground;
+}
+
+.doc-content p {
+  @apply mb-4 leading-relaxed text-foreground/90;
+}
+
+.doc-content ul {
+  @apply mb-4 space-y-1;
+}
+
+.doc-content li {
+  @apply ml-4 relative;
+}
+
+.doc-content li::before {
+  content: "•";
+  @apply absolute -left-4 text-muted-foreground;
+}
+
+.doc-content pre {
+  @apply bg-muted rounded-lg p-4 overflow-x-auto my-4 text-sm font-mono;
+}
+
+.doc-content code {
+  @apply bg-muted px-1.5 py-0.5 rounded text-sm font-mono text-foreground;
+}
+
+.doc-content pre code {
+  @apply bg-transparent p-0;
+}
+
+.doc-content blockquote {
+  @apply border-l-4 border-primary pl-4 py-2 my-4 bg-muted/50 italic text-foreground/80;
+}
+
+.doc-content table {
+  @apply w-full border-collapse my-4;
+}
+
+.doc-content th,
+.doc-content td {
+  @apply border border-border px-3 py-2 text-left;
+}
+
+.doc-content th {
+  @apply bg-muted font-semibold;
+}
+
+.doc-content tr:nth-child(even) {
+  @apply bg-muted/30;
+}
+
+.doc-content a {
+  @apply text-primary hover:underline;
+}
+
+.doc-content strong {
+  @apply font-semibold text-foreground;
+}
+
+.doc-content em {
+  @apply italic;
+}
+
+.doc-content hr {
+  @apply my-8 border-border;
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-border rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-muted-foreground/30;
+}
+
+/* 选中文字样式 */
+::selection {
+  @apply bg-primary/20;
+}
+
+/* 聚焦样式 */
+*:focus-visible {
+  @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+}
+
+/* 动画 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.doc-content {
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* 移动端优化 */
+@media (max-width: 640px) {
+  .doc-content h1 {
+    @apply text-2xl;
+  }
+  
+  .doc-content h2 {
+    @apply text-xl;
+  }
+  
+  .doc-content h3 {
+    @apply text-lg;
+  }
+}
