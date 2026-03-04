@@ -74,20 +74,6 @@ const developer = {
 
 <br />
 
-<!-- 精选项目 -->
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/emesrz/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emesrz&repo=project-1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Project 1" />
-  </a>
-  <a href="https://github.com/emesrz/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emesrz&repo=project-2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Project 2" />
-  </a>
-</div>
-
-<br />
-
 <!-- 随机开发名言 -->
 ## 💭 Dev Quote
 
@@ -101,12 +87,12 @@ const developer = {
 <!-- GitHub 统计 -->
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emesrz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emesrz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180" />
 </div>
 
-<br />
+<br /> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emesrz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
@@ -130,3 +116,18 @@ const developer = {
   </a>
 </div>
 <br />
+
+
+<!-- 精选项目 -->
+<!-- ## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/emesrz/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emesrz&repo=project-1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Project 1" />
+  </a>
+  <a href="https://github.com/emesrz/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emesrz&repo=project-2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Project 2" />
+  </a>
+</div>
+
+<br /> -->
