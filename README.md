@@ -4,7 +4,7 @@
 </div>
 
 <!-- 个人介绍 -->
-# About Me
+# ✨ About Me
 
 - 🔭 I'm currently focused on **building scalable full-stack applications**
 - 🌱 I'm currently learning **AI Agent & Skills**
@@ -13,6 +13,10 @@
 
 <!-- 个人社交媒体 -->
 <div align="center">
+<!-- 语言切换徽章（新增） -->
+  <a href="README_zh.md" target="_blank" rel="noopener noreferrer" title="中文版">
+    <img src="https://img.shields.io/badge/🇨🇳_中文-blue?style=flat-square" alt="中文">
+  </a>
   <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
@@ -41,11 +45,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emesrz/emesrz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emesrz/emesrz/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-
-<!-- 随机开发名言 -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
 </div>
 
 <!-- GitHub 统计 -->
